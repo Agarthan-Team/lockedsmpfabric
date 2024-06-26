@@ -1,0 +1,15 @@
+{
+  "item.locked.key_berserker": "Berserker Key",
+  "item.locked.key_clear": "Clear Key",
+  "item.locked.key_cryo": "Cryo Key",
+  "item.locked.key_dark": "Dark Key",
+  "item.locked.key_fire": "Fire Key",
+  "item.locked.key_healer": "Healer Key",
+  "item.locked.key_royal": "Royal Key",
+  "item.locked.key_plague": "Plague Key",
+  "item.locked.gem_berserker": "Berserk Gem",
+  "item.locked.gem_clear": "Clear Gem",
+  "item.locked.gem_healer": "Healer Gem",
+
+  "itemgroup.locked_group": "Locked Keys"
+}

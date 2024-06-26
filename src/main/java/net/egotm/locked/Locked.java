@@ -1,5 +1,7 @@
 package net.egotm.locked;
 
+import net.egotm.locked.item.ModItemGroup;
+import net.egotm.locked.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -12,8 +14,9 @@ public class Locked implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItemGroup.registerItemGroups();
 
+		ModItems.registerModItems();
 
-		LOGGER.info("Hello Fabric world!");
 	}
 }
