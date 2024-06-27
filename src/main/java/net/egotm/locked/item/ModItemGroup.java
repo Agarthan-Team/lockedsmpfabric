@@ -21,6 +21,7 @@ public class ModItemGroup {
                          entries.add(ModItems.ENDER_KEY);
                         entries.add(ModItems.FIRE_KEY);
                         entries.add(ModItems.HEALER_KEY);
+                          entries.add(ModItems.STORM_KEY);
                         entries.add(ModItems.MIRROR_KEY);
                         entries.add(ModItems.PLAGUE_KEY);
                         entries.add(ModItems.ROYAL_KEY);
