@@ -30,6 +30,8 @@ public class ModItems {
             new Item(new FabricItemSettings()));
     public static final Item PLAGUE_KEY = registerItem("key_plague",
             new Item(new FabricItemSettings()));
+    public static final Item STORM_KEY = registerItem("key_storm",
+            new Item(new FabricItemSettings()));
  public static final Item TIDE_KEY = registerItem("key_tide",
             new Item(new FabricItemSettings()));
     public static final Item MIRROR_KEY = registerItem("key_mirror",
