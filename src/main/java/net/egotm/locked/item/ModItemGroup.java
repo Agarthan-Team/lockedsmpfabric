@@ -18,10 +18,13 @@ public class ModItemGroup {
                         entries.add(ModItems.CLEAR_KEY);
                         entries.add(ModItems.CRYO_KEY);
                         entries.add(ModItems.DARK_KEY);
+                         entries.add(ModItems.ENDER_KEY);
                         entries.add(ModItems.FIRE_KEY);
                         entries.add(ModItems.HEALER_KEY);
+                        entries.add(ModItems.MIRROR_KEY);
                         entries.add(ModItems.PLAGUE_KEY);
                         entries.add(ModItems.ROYAL_KEY);
+                        entries.add(ModItems.TIDE_KEY);
                         entries.add(ModItems.BERSERK_GEM);
                         entries.add(ModItems.CLEAR_GEM);
                         entries.add(ModItems.HEALER_GEM);
