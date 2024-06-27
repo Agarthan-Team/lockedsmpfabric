@@ -30,6 +30,12 @@ public class ModItems {
             new Item(new FabricItemSettings()));
     public static final Item PLAGUE_KEY = registerItem("key_plague",
             new Item(new FabricItemSettings()));
+ public static final Item TIDE_KEY = registerItem("key_tide",
+            new Item(new FabricItemSettings()));
+    public static final Item MIRROR_KEY = registerItem("key_mirror",
+            new Item(new FabricItemSettings()));
+    public static final Item ENDER_KEY = registerItem("key_ender",
+            new Item(new FabricItemSettings()));
     public static final Item BERSERK_GEM = registerItem("gem_berserker",
             new Item(new FabricItemSettings()));
     public static final Item CLEAR_GEM = registerItem("gem_clear",
